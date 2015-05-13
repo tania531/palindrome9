@@ -9,3 +9,5 @@ function checkPalindrome(str) {
 }
 
 console.log('palindromes: ', palindromes);
+
+// returns palindromes:  [false, false, true, false, false, true]
